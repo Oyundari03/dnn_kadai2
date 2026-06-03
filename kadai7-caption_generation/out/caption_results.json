@@ -1,0 +1,27 @@
+[
+  {
+    "label": "person",
+    "image_path": "/export/space0/oyundari/jupyter/notebook/kadai4/dnn_kadai2/data/COCO/val2014/COCO_val2014_000000537548.jpg",
+    "caption": "a man riding a motorcycle down a street"
+  },
+  {
+    "label": "bus",
+    "image_path": "/export/space0/oyundari/jupyter/notebook/kadai4/dnn_kadai2/data/COCO/val2014/COCO_val2014_000000017207.jpg",
+    "caption": "a bus on the road"
+  },
+  {
+    "label": "airplane",
+    "image_path": "/export/space0/oyundari/jupyter/notebook/kadai4/dnn_kadai2/data/COCO/val2014/COCO_val2014_000000504811.jpg",
+    "caption": "a plane flying over a church in a town"
+  },
+  {
+    "label": "dog",
+    "image_path": "/export/space0/oyundari/jupyter/notebook/kadai4/dnn_kadai2/data/COCO/val2014/COCO_val2014_000000016164.jpg",
+    "caption": "a dog laying in a dirty bathroom"
+  },
+  {
+    "label": "cat",
+    "image_path": "/export/space0/oyundari/jupyter/notebook/kadai4/dnn_kadai2/data/COCO/val2014/COCO_val2014_000000157807.jpg",
+    "caption": "a cat standing on a toilet"
+  }
+]

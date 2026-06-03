@@ -1,0 +1,41 @@
+positive=['king', 'woman'], negative=['man']
+queen	0.852
+throne	0.766
+prince	0.759
+daughter	0.747
+elizabeth	0.746
+
+positive=['paris', 'japan'], negative=['france']
+tokyo	0.923
+shanghai	0.837
+japanese	0.790
+osaka	0.783
+beijing	0.748
+
+positive=['tokyo', 'france'], negative=['japan']
+paris	0.921
+brussels	0.795
+strasbourg	0.790
+prohertrib	0.780
+french	0.742
+
+positive=['walking', 'swim'], negative=['walk']
+swimming	0.807
+swimmers	0.750
+swims	0.745
+surfing	0.741
+biking	0.736
+
+positive=['phone', 'video'], negative=['call']
+audio	0.776
+digital	0.764
+clips	0.763
+videos	0.758
+youtube	0.752
+
+positive=['doctor', 'woman'], negative=['man']
+nurse	0.840
+child	0.766
+pregnant	0.757
+mother	0.752
+patient	0.752
